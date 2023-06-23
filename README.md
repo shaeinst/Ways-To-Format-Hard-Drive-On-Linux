@@ -1,3 +1,6 @@
+# !!! WARNING !!!
+because of forced push, i loosed all the screenshots... retaking and placing the screenshots is a lot of work
+
 
 # Ways To Format Hard Drive On Linux
 
